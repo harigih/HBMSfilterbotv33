@@ -15,8 +15,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/Whitedeviljoypow/STARLIGHT-BOT",
-    "repository": "https://github.com/Whitedeviljoypow/STARLIGHT-BOT",
+    "website": "https://github.com/harigih/HBMSfilterbotv33",
+    "repository": "https://github.com/harigih/HBMSfilterbotv33",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
