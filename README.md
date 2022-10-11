@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+ hb+bot!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+hb+bot!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
   <img src="https://telegra.ph/file/5725b745fd0a00d0e6977.jpg" alt="MN BOTZ LOGO">
 </p>
