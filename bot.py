@@ -43,7 +43,7 @@ class Bot(Client):
 
     async def stop(self, *args):
         await super().stop()
-        logging.info("🚀Restarting..STARLIGHT-BOT💥")
+        logging.info("🚀Restarting..HBMSfilterbotv3💥")
 
 
 app = Bot()
