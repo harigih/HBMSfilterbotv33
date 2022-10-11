@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐇𝐁.𝐌𝐒.𝐅𝐈𝐋𝐓𝐄𝐑+𝐁𝐎𝐓𝐕𝟑!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐁+𝐌𝐒!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝐇𝐁.𝐌𝐒+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐇𝐁.𝐌𝐒.𝐅𝐈𝐋𝐓𝐄𝐑+𝐁𝐎𝐓𝐕𝟑!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐑𝐈+𝐒𝐀𝐈𝐅𝐔𝐃𝐄𝐄𝐍!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝐇𝐁.𝐌𝐒+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
   <img src="https://telegra.ph/file/5725b745fd0a00d0e6977.jpg" alt="MN BOTZ LOGO">
 </p>
