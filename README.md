@@ -1,10 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?
-lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+hb+bot!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓+𝐁𝐎𝐓!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 <p align="center">
-  <img src="https://telegra.ph/file/5725b745fd0a00d0e6977.jpg" alt="MN BOTZ LOGO">
+  <img src="https://telegra.ph/file/cdfd999b7a706889ee81c.jpg" alt="MN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> 𝐇𝐁 𝐌𝐒 𝐅𝐈𝐋𝐓𝐄𝐑 𝐁𝐎𝐓𝐕𝟑</b>
+  <b> 𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓 𝐁𝐎𝐓</b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/Whitedeviljoypow/STARLIGHT-BOT?style=flat-square&color=yellow)](https://github.com/Whitedeviljoypow/STARLIGHT-BOT/stargazers)
@@ -54,7 +53,7 @@ lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+hb+bot!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+�
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/HBMSfilterbotv33)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/harigih/STARLIGHT-BOT)
 
 ## Commands
 ```
